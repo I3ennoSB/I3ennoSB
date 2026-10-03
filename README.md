@@ -6,6 +6,6 @@ My name is Samuel Bennington and here is some useful information about me.
 
 - I am learning Python through PyCharm IDE
 
-- I will be using Github as oart of my programming module
+- I will be using Github as part of my programming module
 
 
